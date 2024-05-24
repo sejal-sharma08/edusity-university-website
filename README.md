@@ -53,12 +53,12 @@ To set up the project locally, follow these steps:
     ```
 4. **Start the development server**:
     ```bash
-    npm start
+    npm run dev
     ```
 
 ## Usage
 
-After starting the development server, open your web browser and go to `http://localhost:3000` to view the website. You can navigate through different sections using the navigation bar.
+After starting the development server, open your web browser and go to `http://localhost:5173` to view the website. You can navigate through different sections using the navigation bar.
 
 ## Contributing
 
