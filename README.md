@@ -79,6 +79,21 @@ We welcome contributions to improve the Edusity University website! If you have 
     ```
 5. Open a pull request.
 
+## Screenshots
+These are some snapshots of the project.
+
+![Landing Page](Images/home.PNG)
+
+![Programs](Images/program.PNG)
+
+![About Us](Images/aboutUs.PNG)
+
+![Campus Photos](Images/campus.PNG)
+
+![Testimonials](Images/testimonials.PNG)
+
+![Contact Us](Images/contactUs.PNG)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
